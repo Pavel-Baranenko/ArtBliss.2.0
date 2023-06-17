@@ -1707,3 +1707,7 @@ ul {
     width: 100%;
   }
 }
+
+.conslting__image img {
+  max-width: 100%;
+}
